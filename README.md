@@ -46,11 +46,11 @@ Used VGG16 to classify waste materials, achieving 93% accuracy.
 
 ### 🧠 KNN Classifier in NeoCortex API & Azure  
 Replaced HtmClassifier with KNN for sequence modeling and scaled training on Azure for thousands of sequences.
-[🔗 View Project](https://github.com/Xhelo99/Development-of-an-intelligent-Surveillance-System-Using-ML)
+[🔗 View Project](https://github.com/Xhelo99/KNN-Classifier-in-Azure-Cloud)
 
 ### 📡 Implementation of a 5G Core Network  
 Built a 5G core network using Open5GS and UERANSIM on Ubuntu Linux. Configured virtualized components via YAML and managed the entire setup in VirtualBox. Focused on simulating 5GC behavior for learning and testing purposes.
-[🔗 View Project](https://github.com/Xhelo99/Development-of-an-intelligent-Surveillance-System-Using-ML)
+[🔗 View Project](https://github.com/Xhelo99/implementation-of-a-5G-core)
 
 ---
 
