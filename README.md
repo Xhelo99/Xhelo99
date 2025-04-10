@@ -38,7 +38,7 @@ Applied deep learning (ResNet18 in PyTorch) for structural crack detection in ci
 
 ### 🌧️ Rainfall Prediction Classifier  
 Built a machine learning pipeline with feature engineering and grid search CV to predict rainfall events.
-[🔗 View Project](https://github.com/Xhelo99/Development-of-an-intelligent-Surveillance-System-Using-ML)
+[🔗 View Project](https://github.com/Xhelo99/Rainfall-Prediction-Using-Australian-Weather-Data/tree/main)
 
 ### 🗑️ Waste Classification with Transfer Learning  
 Used VGG16 to classify waste materials, achieving 93% accuracy.
