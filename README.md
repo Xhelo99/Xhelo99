@@ -41,8 +41,8 @@ Built a machine learning pipeline with feature engineering and grid search CV to
 [🔗 View Project](https://github.com/Xhelo99/Rainfall-Prediction-Using-Australian-Weather-Data/tree/main)
 
 ### 🗑️ Waste Classification with Transfer Learning  
-Used VGG16 to classify waste materials, achieving 93% accuracy.
-[🔗 View Project](https://github.com/Xhelo99/Development-of-an-intelligent-Surveillance-System-Using-ML)
+The goal of this project is to leverage machine learning and computer vision to automate the classification of waste products, improving efficiency and reducing contamination rates. The project will use transfer learning with a pre-trained VGG16 model to classify images.
+[🔗 View Project](https://github.com/Xhelo99/Classify-Waste-Products-Using-Transfer-Learning/tree/main)
 
 ### 🧠 KNN Classifier in NeoCortex API & Azure  
 Replaced HtmClassifier with KNN for sequence modeling and scaled training on Azure for thousands of sequences.
