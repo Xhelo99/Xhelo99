@@ -32,6 +32,14 @@ A real-time surveillance application using semantic segmentation (PP-LiteSeg) to
 ### 🚘 Ultrasonic Pedestrian Detection (Master’s Thesis)  
 Currently working on this project. Developing a system to automatically label ultrasonic sensor data for pedestrian detection based on logic from the intelligent surveillance system.
 
+### 🧠 KNN Classifier in NeoCortex API & Azure  
+I replaced the HtmClassifier with KNN for sequence modeling and scaled training on Azure for thousands of sequences.
+[🔗 View Project](https://github.com/Xhelo99/KNN-Classifier-in-Azure-Cloud)
+
+### 📡 Implementation of a 5G Core Network  
+Built a 5G core network using Open5GS and UERANSIM on Ubuntu Linux. Configured virtualized components via YAML and managed the entire setup in VirtualBox. Focused on simulating 5GC behavior for learning and testing purposes.
+[🔗 View Project](https://github.com/Xhelo99/implementation-of-a-5G-core)
+
 ### 🧪 Crack Detection using ResNet18  
 Applied deep learning (ResNet18 in PyTorch) for structural crack detection in civil engineering use cases.
 [🔗 View Project](https://github.com/Xhelo99/Development-of-an-intelligent-Surveillance-System-Using-ML)
@@ -43,14 +51,6 @@ Built a machine learning pipeline with feature engineering and grid search CV to
 ### 🗑️ Waste Classification with Transfer Learning  
 The goal of this project is to leverage machine learning and computer vision to automate the classification of waste products, improving efficiency and reducing contamination rates. The project will use transfer learning with a pre-trained VGG16 model to classify images.
 [🔗 View Project](https://github.com/Xhelo99/Classify-Waste-Products-Using-Transfer-Learning/tree/main)
-
-### 🧠 KNN Classifier in NeoCortex API & Azure  
-Replaced HtmClassifier with KNN for sequence modeling and scaled training on Azure for thousands of sequences.
-[🔗 View Project](https://github.com/Xhelo99/KNN-Classifier-in-Azure-Cloud)
-
-### 📡 Implementation of a 5G Core Network  
-Built a 5G core network using Open5GS and UERANSIM on Ubuntu Linux. Configured virtualized components via YAML and managed the entire setup in VirtualBox. Focused on simulating 5GC behavior for learning and testing purposes.
-[🔗 View Project](https://github.com/Xhelo99/implementation-of-a-5G-core)
 
 ---
 
