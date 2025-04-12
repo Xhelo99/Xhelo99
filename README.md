@@ -42,7 +42,7 @@ Built a 5G core network using Open5GS and UERANSIM on Ubuntu Linux. Configured v
 
 ### 🧪 Crack Detection using ResNet18  
 Applied deep learning (ResNet18 in PyTorch) for structural crack detection in civil engineering use cases.
-[🔗 View Project](https://github.com/Xhelo99/Development-of-an-intelligent-Surveillance-System-Using-ML)
+[🔗 View Project](https://github.com/Xhelo99/Crack-detection-for-structural-health-monitoring-and-inspection/tree/main)
 
 ### 🌧️ Rainfall Prediction Classifier  
 Built a machine learning pipeline with feature engineering and grid search CV to predict rainfall events.
