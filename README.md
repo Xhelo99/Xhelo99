@@ -30,7 +30,7 @@ A real-time surveillance application using semantic segmentation (PP-LiteSeg) to
 [🔗 View Project](https://github.com/Xhelo99/Development-of-an-intelligent-Surveillance-System-Using-ML)
 
 ### 🚘 Ultrasonic Pedestrian Detection (Master’s Thesis)  
-Currently working on this project. Developing a system to automatically label ultrasonic sensor data for pedestrian detection based on logic from the intelligent surveillance system.
+Developing a system to automatically label ultrasonic sensor data for pedestrian detection based on logic from the intelligent surveillance system. [🔗 View Project](https://github.com/Xhelo99/Automated-Labeling-of-Ultrasonic-Sensor-Data-for-Pedestrian-Detection-in-Cars)
 
 ### 🧠 KNN Classifier in NeoCortex API & Azure  
 I replaced the HtmClassifier with KNN for sequence modeling and scaled training on Azure for thousands of sequences.
