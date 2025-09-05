@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Mariglen Xhelo
 
-I'm a Data Science graduate with a strong foundation in IT and Electronics Engineering, based in Frankfurt am Main, Germany. I'm passionate about machine learning, computer vision, and building intelligent systems that solve real-world problems.
+I'm an IT Engineer graduate with a strong foundation in Software Engineering and Electronics Engineering, based in Frankfurt am Main, Germany. I'm passionate about machine learning, computer vision, and building intelligent systems that solve real-world problems.
 
 🎓 **M.Eng. in Information Technology**  
 Frankfurt University of Applied Sciences (2025)
