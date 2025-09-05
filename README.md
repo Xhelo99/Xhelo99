@@ -32,6 +32,14 @@ A real-time surveillance application using semantic segmentation (PP-LiteSeg) to
 ### 🚘 Ultrasonic Pedestrian Detection (Master’s Thesis)  
 Developing a system to automatically label ultrasonic sensor data for pedestrian detection based on logic from the intelligent surveillance system. [🔗 View Project](https://github.com/Xhelo99/Automated-Labeling-of-Ultrasonic-Sensor-Data-for-Pedestrian-Detection-in-Cars)
 
+### JobsApp
+
+A Job Board Platform where **companies can post jobs** and **users can apply** with their resumes. Includes **resume upload, applicant tracking, and an admin dashboard** with analytics.
+🌐 **Live Demo:** [jobsapp-fwzr.onrender.com](https://jobsapp-fwzr.onrender.com/)
+
+[🔗 View Project](https://github.com/Xhelo99/jobsapp)
+
+
 ### 🧠 KNN Classifier in NeoCortex API & Azure  
 I replaced the HtmClassifier with KNN for sequence modeling and scaled training on Azure for thousands of sequences.
 [🔗 View Project](https://github.com/Xhelo99/KNN-Classifier-in-Azure-Cloud)
